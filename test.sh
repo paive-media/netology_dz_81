@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo 'test 2'
+echo 'test 3'
 
 ### 
 
@@ -23,3 +23,8 @@ while [[ $i -lt $max ]]; do
 done
 
 echo "Exit after $max steps"
+
+
+###
+
+echo 'done'
