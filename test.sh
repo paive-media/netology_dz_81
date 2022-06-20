@@ -2,13 +2,7 @@
 
 echo 'test 3'
 
-<<<<<<< ours
-### confict row @ main 
-||||||| base
-### 
-=======
-### conflict row ! 
->>>>>>> theirs
+### # # 
 
 t=5
 
