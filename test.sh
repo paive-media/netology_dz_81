@@ -1,14 +1,13 @@
 #!/bin/bash
 
-echo 'test'
-
+echo 'test 2'
 
 ### 
 
 t=5
 
-# cmd="sysctl -n vm.loadavg" # mac os
-cmd="cat /proc/loadavg" # debian
+cmd="sysctl -n vm.loadavg" # mac os
+# cmd="cat /proc/loadavg" # debian
 
 max=3
 
