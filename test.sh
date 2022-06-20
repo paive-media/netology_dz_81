@@ -10,7 +10,7 @@ t=5
 # cmd="sysctl -n vm.loadavg" # mac os
 cmd="cat /proc/loadavg" # debian
 
-max=5
+max=3
 
 i=0
 
