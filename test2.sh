@@ -2,6 +2,6 @@
 
 echo 'Test2'
 
-### conflict row @ main
+### same conflict row @ conflict2
 
 
