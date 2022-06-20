@@ -6,10 +6,11 @@ echo 'test'
 ### 
 
 t=5
-# cmd="sysctl -n vm.loadavg" # mac os
-cmd="cat /proc/loadavg" # debian
 
-max=3
+cmd="sysctl -n vm.loadavg" # mac os
+# cmd="cat /proc/loadavg" # debian
+
+max=5
 
 i=0
 
